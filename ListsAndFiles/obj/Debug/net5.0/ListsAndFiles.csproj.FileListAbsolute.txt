@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.deps.json
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.dll
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ref/ListsAndFiles.dll
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/bin/Debug/net5.0/ListsAndFiles.pdb
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.dll
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ref/ListsAndFiles.dll
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.pdb
+/Users/GRI$$$HA/Projects/Lists/ListsAndFiles/obj/Debug/net5.0/ListsAndFiles.genruntimeconfig.cache
